@@ -1,5 +1,5 @@
-# <a href="http://pythonbuddy.com">PythonBuddy</a> 🖊️ 🐍
-[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://travis-ci.org/ethanchewy/OnlinePythonLinterSyntaxChecker)
+#*<a*href="http://pythonbuddy.com">PythonBuddy</a> 🖊️ 🐍
+[#[Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://travis-ci.org/ethanchewy/OnlinePythonLinterSyntaxChecker)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://paypal.me/Ethan302)
 <br>
 Online Python 3 Programming with Live Pylint Syntax Checking!
@@ -27,7 +27,7 @@ Online Python 3 Programming with Live Pylint Syntax Checking!
   ```
   python --version
   ```
-  If you don't use Python Python 3.7.6, some Python libraries that PythonBuddy relies on **may not work**. Please refer to this documentation for figuring out how to create a specific version of Python via virtualenv via this StackOverflow [post](https://stackoverflow.com/a/39713544).
+  If you don't use Python Python 3.7.6, some Python libraries that PythonBuddy relies on  *may not work**. Please refer to this documentation for figuring out how to create a specific version of Python via virtualenv via this StackOverflow [post](https://stackoverflow.com/a/39713544).
   
 5) Pipe requirements to venv folder:
   ```
@@ -159,3 +159,4 @@ If you don't have the means to donate to the above, consider checking out some o
 - https://www.vote.org/
 - https://www.bentley.edu/news/confronting-anti-asian-racism-age-coronavirus
 - https://en.wikipedia.org/wiki/Bamboo_ceiling
+ 
